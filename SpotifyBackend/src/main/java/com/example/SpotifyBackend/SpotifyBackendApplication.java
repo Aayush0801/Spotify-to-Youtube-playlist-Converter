@@ -1,13 +1,13 @@
-package com.example.SpotifyBackend;
+package com.example.spotifybackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpotifyBackendApplication {
+public class SpotifybackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpotifyBackendApplication.class, args);
+		SpringApplication.run(SpotifybackendApplication.class, args);
 	}
 
 }

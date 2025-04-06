@@ -1,10 +1,10 @@
-package com.example.SpotifyBackend;
+package com.example.spotifybackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpotifyBackendApplicationTests {
+class SpotifybackendApplicationTests {
 
 	@Test
 	void contextLoads() {
